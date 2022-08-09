@@ -1,5 +1,4 @@
-﻿namespace AspNetCore.VersionInfo
-{
+namespace AspNetCore.VersionInfo{
     public static class Constants
     {
         internal const string DEFAULT_API_RESPONSE_CONTENT_TYPE = "application/json";
